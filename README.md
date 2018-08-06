@@ -3,7 +3,7 @@
 ### 项目说明
 
 微信小程序：当地天气预报与其它城市天气的搜索
-和风天气免费api地址：https://free-api.heweather.com/v5/
+和风天气免费api地址：https://free-api.heweather.com/v5/\n
 高德地图免费api地址：https://lbs.amap.com/api/webservice/guide/api/georegeo
 ### 目录结构
 
@@ -12,7 +12,7 @@
 
 ### 项目截图
 <img width="250" height="500" src="https://github.com/xingyanan/EmotionWeather/blob/master/screenshot.jpg"/>\\
-<img width="250" height="500" src="https://github.com/xingyanan/EmotionWeather/blob/master/screenshot2.jpg"/>
+<img width="250" height="500" src="https://github.com/xingyanan/EmotionWeather/blob/master/screenshot2.jpg"/>\n
 <img width="250" height="500" src="https://github.com/xingyanan/EmotionWeather/blob/master/screenshot3.jpg"/>\\
 <img width="250" height="500" src="https://github.com/xingyanan/EmotionWeather/blob/master/screenshot1.jpg"/>
 
