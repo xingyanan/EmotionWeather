@@ -11,7 +11,7 @@
 - /pages/search — 存放项目搜索页面相关文件
 
 ### 项目截图
-<img width="250" height="500" src="https://github.com/xingyanan/EmotionWeather/blob/master/screenshot.jpg"/>\\
+<img width="250" height="500" src="https://github.com/xingyanan/EmotionWeather/blob/master/screenshot.jpg"/>\
 <img width="250" height="500" src="https://github.com/xingyanan/EmotionWeather/blob/master/screenshot2.jpg"/>\n
 <img width="250" height="500" src="https://github.com/xingyanan/EmotionWeather/blob/master/screenshot3.jpg"/>\\
 <img width="250" height="500" src="https://github.com/xingyanan/EmotionWeather/blob/master/screenshot1.jpg"/>
