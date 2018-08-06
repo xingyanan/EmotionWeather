@@ -14,7 +14,6 @@
 <table><tr>
 <img width="300" height="600" src="https://github.com/xingyanan/EmotionWeather/blob/master/screenshot.jpg"/>
 <img width="300" height="600" src="https://github.com/xingyanan/EmotionWeather/blob/master/screenshot2.jpg"/>
-<td><img src=pic2.jpg border=0></td>
 </tr></table>
 <img width="300" height="600" src="https://github.com/xingyanan/EmotionWeather/blob/master/screenshot3.jpg"/>
 <img width="300" height="600" src="https://github.com/xingyanan/EmotionWeather/blob/master/screenshot1.jpg"/>
